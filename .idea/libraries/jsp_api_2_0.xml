@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jsp-api-2.0">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/customfolder/jsp-api-2.0.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/customfolder/servlet-api-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
